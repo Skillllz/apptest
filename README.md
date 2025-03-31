@@ -46,8 +46,12 @@ Start the React development server:
 node server.js
 
 Deployment
-The frontend is been deployed using Vercel.
 The backend  ben deployed on Render.
+https://apptest-uvgg.onrender.com/
+
+The frontend is been deployed using Vercel.
+https://apptest-xqrx.vercel.app/
+
 
 Acknowledgments
 React for the frontend framework.
