@@ -5,6 +5,13 @@ This is a MERN (MongoDB, Express, React, Node.js) application with additional We
 # Features
 ![image](https://github.com/user-attachments/assets/fc007d1b-6004-468b-856c-2eed58940462)
 
+![image](https://github.com/user-attachments/assets/b86251a6-5b9a-4a6b-94db-287842c9859c)
+
+![image](https://github.com/user-attachments/assets/e1a04ce8-d7aa-4e48-894f-f838f05f3c15)
+
+![image](https://github.com/user-attachments/assets/03c612b9-8b6b-4d7b-9188-33ead6904114)
+
+
 - **Backend**: Node.js server with Express for API handling.
 - **Frontend**: React application for the user interface.
 - **WebGL**: WebGL integration for rendering 3D content.
