@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/(.*)",
+        "destination": "https://mernapp-x90m.onrender.com"
+      }
+    ]
+  }
+  
