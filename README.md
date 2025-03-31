@@ -11,6 +11,8 @@ This is a MERN (MongoDB, Express, React, Node.js) application with additional We
 
 ![image](https://github.com/user-attachments/assets/03c612b9-8b6b-4d7b-9188-33ead6904114)
 
+![image](https://github.com/user-attachments/assets/5e10b766-1490-46f6-a1d0-b7bf314bac51)
+
 
 - **Backend**: Node.js server with Express for API handling.
 - **Frontend**: React application for the user interface.
@@ -44,9 +46,8 @@ Start the React development server:
 node server.js
 
 Deployment
-The frontend can be deployed using Vercel or any static hosting service.
-The backend can be deployed on platforms like Heroku or AWS.
-The WebGL content can be hosted on any static file server.
+The frontend is been deployed using Vercel.
+The backend  ben deployed on Render.
 
 Acknowledgments
 React for the frontend framework.
