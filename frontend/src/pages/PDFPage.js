@@ -10,7 +10,7 @@ const PdfViewer = () => {
     // Replace this with an actual file ID from your database
     const fileId = "67e711492325c8d7b337e93c"; // Example ID
 
-     fetch(`http://localhost:5000/get-pdf/${fileId}`)
+     fetch(`https://apptest-oyz9.vercel.app//get-pdf/${fileId}`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch PDF");
         return res.blob();
