@@ -32,7 +32,7 @@ const SamplePage1 = () => {
     const formData = new FormData();
     formData.append("audio", audioBlob, "recording.webm");
 
-    fetch("http://localhost:5000/upload-audio", {
+    fetch("https://apptest-uvgg.onrender.com/upload-audio", {
       method: "POST",
       body: formData,
     })
@@ -47,7 +47,7 @@ const SamplePage1 = () => {
   };
 
   const fetchSavedAudios = () => {
-    fetch("http://localhost:5000/get-audios")
+    fetch("https://apptest-uvgg.onrender.com/get-audios")
       .then((res) => res.json())
       .then((data) => setSavedAudios(data))
       .catch((err) => console.error("Fetch error:", err));
