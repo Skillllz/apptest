@@ -5,7 +5,7 @@ const SamplePage2 = () => {
     <div>
       <h2>WebGL Player</h2>
       <iframe
-        src="https://apptest-oyz9.vercel.app/WebGL/index.html"
+        src="https://apptest-oyz9.vercel.app/webgl/index.html"
         width="100%"
         height="600px"
         style={{ border: "none" }}
